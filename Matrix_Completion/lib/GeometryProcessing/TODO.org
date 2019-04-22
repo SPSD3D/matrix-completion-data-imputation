@@ -1,0 +1,50 @@
+* Animation
+
+** TODO LArray input for vertex and face data
+
+** File import/export
+
+*** TODO Obj
+
+*** TODO Ply
+
+*** TODO Off
+
+*** TODO Stl
+
+** TODO Include and compute vertex and face normals
+
+** TODO Parameterized laplacian
+
+* Features
+
+** Partitioning algorithms
+
+*** TODO View-based
+
+*** TODO Connectivity-based (use MeTiS library?)
+
+* Other Constructs
+
+** TODO Extend LArray with other Array functions
+
+** TODO Maybe eliminate AVector
+
+* Documentation
+
+** TODO README
+
+** TODO Manual
+
+** TODO Examples
+
+* Release
+
+** TODO Appveyor
+
+** TODO Add CI framework (travis?)
+
+** TODO REQUIRE
+
+** TODO Test suite
+
